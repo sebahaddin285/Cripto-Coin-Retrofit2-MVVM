@@ -12,6 +12,6 @@
 - RecyclerView
 
 ## Screenshots
-<img src="[https://drive.google.com/file/d/1L4lYLiHEpndM6Hpm7kc3qepzSfsWg4wu/view?usp=share_link](https://drive.google.com/file/d/1L4lYLiHEpndM6Hpm7kc3qepzSfsWg4wu/view?usp=share_link)" width="200"  alt="News-App-1"/>
-<img src="[https://drive.google.com/file/d/1L4lYLiHEpndM6Hpm7kc3qepzSfsWg4wu/view?usp=share_link](https://drive.google.com/file/d/1YYshvCiA3cp_2HmPJzmzdW4eInxp_cKl/view?usp=share_link)" width="200"  alt="News-App-1"/>
-<img src="[https://drive.google.com/file/d/1L4lYLiHEpndM6Hpm7kc3qepzSfsWg4wu/view?usp=share_link](https://drive.google.com/file/d/1xRA5dHgIZjNAABe5PLppzBmoEsEJFpmE/view?usp=share_link)" width="200"  alt="News-App-1"/>
+<img src="https://github.com/sebahaddin285/Cripto-Coin-Retrofit2-MVVM/blob/master/Screenshot_2022-11-05-00-28-32-56_df2d95376de0b56a3a08684d43142810.jpg" width="200"  alt="News-App-1"/>
+<img src="https://github.com/sebahaddin285/Cripto-Coin-Retrofit2-MVVM/blob/master/Screenshot_2022-11-05-00-29-33-04_df2d95376de0b56a3a08684d43142810.jpg" width="200"  alt="News-App-1"/>
+<img src="https://github.com/sebahaddin285/Cripto-Coin-Retrofit2-MVVM/blob/master/Screenshot_2022-11-05-00-29-49-83_df2d95376de0b56a3a08684d43142810.jpg" width="200"  alt="News-App-1"/>
